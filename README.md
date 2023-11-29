@@ -1,24 +1,30 @@
 [![MasterHead](https://raw.githubusercontent.com/shahzebnaqvi/shahzebnaqvi/master/coding.gif)](https://yaseenmughal46.io)
 <h1 align="center">Hi 👋, I'm Yaseen Mughal</h1>
 <h3 align="center">An enthusiastic full stack developer from Pakistan</h3>
-<img align="right" alt="Coding" width="400" src=https://media2.giphy.com/media/fVVAJZ4XFNqa2xoZLD/giphy.gif?cid=ecf05e47vs6exsqvaqd1z8k3pgxtn7jvjrfvrjqvghxw0um3&ep=v1_gifs_related&rid=giphy.gif&ct=g>
+<img align="right" alt="Coding" width="400" src=https://raw.githubusercontent.com/Rogero0o/GifLoadingView/master/sample/src/main/res/drawable-hdpi/num76.gif>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yaseenismail46&label=Profile%20views&color=0e75b6&style=flat" alt="yaseenismail46" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
+- 🌎 I’m located in Karachi, Pakistan.
+  
+- 👩🏻‍💻 Some technologies that I love to working with includes Node.js, Javascript & AI.
+
+- 🚀 I have learned couple of state management like Getx, Stacked, Provider and now move on Riverpod & Bloc.
+  
 - 🔭 I’m currently working on **Mughal Fitness Club App**
 
-- 🌱 I’m currently learning **DevOps**
+- 🔎 I’m currently learning **DevOps**
 
 - 👯 I’m looking to collaborate on **Food-Ninja**
 
 - 💬 Ask me about **Flutter, Android, iOS**
 
-- 📫 How to reach me **dev.yaseenismail@gmail.cm**
+- ➤ How to reach me:
+     **📩 dev.yaseenismail@gmail.com**
+     **🌐 https://www.linkedin.com/in/muhammad-yaseen-ismail-676204264**
 
-- ⚡ Fun fact **I am funny**
-
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Social Network:</h3>
 <p align="left">
 <a href="https://twitter.com/yaseenmughal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="yaseenmughal" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/muhammad-yaseen-ismail-676204264" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammad-yaseen-ismail-676204264" height="30" width="40" /></a>
@@ -34,4 +40,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yaseenismail46&show_icons=true&locale=en" alt="yaseenismail46" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yaseenismail46&" alt="yaseenismail46" /></p>
-
