@@ -1,14 +1,14 @@
-[![MasterHead](https://miro.medium.com/v2/resize:fit:720/format:webp/1*AlISztRwQYNWh6XpWXAEOA.png)](https://yaseenmughal46.io)
+[![MasterHead](https://raw.githubusercontent.com/shahzebnaqvi/shahzebnaqvi/master/coding.gif)](https://yaseenmughal46.io)
 <h1 align="center">Hi 👋, I'm Yaseen Mughal</h1>
-<h3 align="center">A passionate full stack developer from Pakistan</h3>
-<img align="right" alt="Coding" width="400" src=https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3I1ajZuYXJvamM1dWVucHh2dnN2Zjk0cGZwa29qMmF4OXRkNXI1OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3GYmecuz4ncOc/giphy.gif>
+<h3 align="center">An enthusiastic full stack developer from Pakistan</h3>
+<img align="right" alt="Coding" width="400" src=https://media2.giphy.com/media/fVVAJZ4XFNqa2xoZLD/giphy.gif?cid=ecf05e47vs6exsqvaqd1z8k3pgxtn7jvjrfvrjqvghxw0um3&ep=v1_gifs_related&rid=giphy.gif&ct=g>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yaseenismail46&label=Profile%20views&color=0e75b6&style=flat" alt="yaseenismail46" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **Mughal-Fitness-Club**
+- 🔭 I’m currently working on **Mughal Fitness Club App**
 
-- 🌱 I’m currently learning **Node.js, Mongodb**
+- 🌱 I’m currently learning **DevOps**
 
 - 👯 I’m looking to collaborate on **Food-Ninja**
 
@@ -20,7 +20,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://twitter.com/yaseenmughal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="yaseenmughal" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/muhammad-yaseen-ismail-676204264" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammad-yaseen-ismail-676204264" height="30" width="40" /></a>
+<a href="https://fb.com/yaseen-mughal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="yaseen-mughal" height="30" width="40" /></a>
+<a href="https://instagram.com/yaseenmughal63" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yaseenmughal63" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -31,3 +34,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yaseenismail46&show_icons=true&locale=en" alt="yaseenismail46" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yaseenismail46&" alt="yaseenismail46" /></p>
+
