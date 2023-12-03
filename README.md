@@ -8,7 +8,7 @@
  <hr align="center">👨‍🎓 About Me 👨‍🎓</hr>
 </h1>
 <br/>
-<h3 align="center">A passionate full stack developer from Pakistan 🇨🇦</h3>
+<h3 align="center">A passionate full stack developer from Pakistan.</h3>
 <br/>
 <div align="center">
  
