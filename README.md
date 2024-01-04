@@ -10,15 +10,17 @@
 <br/>
 <h3 align="center">A passionate full stack developer from Pakistan.</h3>
 <br/>
-<div align="center">
+<div align="start">
  
- 🔭 I’m currently working on **a Food_Ninja app**
+ 🔭 I’m currently working on **Flutter**
  
- 🌱 I’m currently learning **Node.js, Ai, AWS**
+ 🌱 I’m currently learning **Backend**
 
 💬 Ask me about **Flutter, Node.js, Firebase... or anything [here](https://github.com/YaseenMughal/YaseenMughal/issues)**
 
-⚡ Fun fact **Mobile application developers turn code into captivating experiences, transforming digital possibilities into the palm of your hand.**
+🎁 How to reach me: dev.yaseenismail@gmail.com
+
+⚡ Fun fact: **Mobile application developers turn code into captivating experiences, transforming digital possibilities into the palm of your hand.**
 
  </div>
  <br/>
@@ -28,6 +30,9 @@
  <br/>
  <br/>
 <div align="center"> 
+  <a href="https://github.com/YaseenMughal">
+    <img src="https://img.shields.io/badge/Github-white?style=for-the-badge&logo=Github&logoColor=black" alt="Github Badge"/>
+  </a>
   <a href="mailto:dev.yaseenismail@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
@@ -45,8 +50,8 @@
 <br/>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git,r" />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,c,java,nextjs,mysql,flask" /><br>
+    <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,github,git,postman,figma,xd,mongodb,nodejs,python,javascript&perline=5" />
+
 </div>
 <br/>
 <hr/>
