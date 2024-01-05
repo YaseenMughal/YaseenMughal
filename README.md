@@ -29,7 +29,7 @@
  <h2 align="center">📫 Connect with Me 📫</h2>
  <br/>
  <br/>
-<div align="center"> 
+<div align="start"> 
   <a href="https://github.com/YaseenMughal">
     <img src="https://img.shields.io/badge/Github-white?style=for-the-badge&logo=Github&logoColor=black" alt="Github Badge"/>
   </a>
@@ -49,7 +49,7 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <br/>
-<div align="center">
+<div align="start">
     <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,github,git,postman,figma,xd,mongodb,nodejs,python,javascript&perline=5" />
 
 </div>
