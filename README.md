@@ -2,7 +2,7 @@
 <br/>
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=YaseenMughal.YaseenMughal" />
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+This+is+Yaseen+Mughal+!;+Mobile+Application+Developer+!;+Android+|+iOS+|+node.js+developer"/>
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+This+is+Yaseen+Mughal+!;+Mobile+Application+Developer+!;+AAndroid+|+iOS+|+node.js+developer"/>
 <br/>
 
  <hr align="center">👨‍🎓 About Me 👨‍🎓</hr>
@@ -64,7 +64,8 @@
   <img src="https://github-readme-stats.vercel.app/api?username=YaseenMughal&count_private=true&show_icons=true&theme=dark" alt="Yaseen Mughal's GitHub Stats" />
 
   <br/>
-  
+    <br/>
+    
   <!-- GitHub Readme Stats for languages -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YaseenMughal&langs_count=10&layout=compact&theme=dark" alt="Yaseen Mughal's Top Languages" />
 
